@@ -1,0 +1,55 @@
+/* AppStyles.css */
+.Main {
+height : 100vh ;
+}
+
+body {
+  font-family: 'Arial, sans-serif';
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+  margin: 0 10px;
+}
+
+.welcome-section {
+  padding: 20px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.intro-text {
+  line-height: 1.6;
+}
+.welcome-section > h2 {
+  text-align: center;
+}
+.footer {
+  background-color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+  background-color: #333;
+}
+
+.contact-info {
+  margin-top: 10px;
+}
