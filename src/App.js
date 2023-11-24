@@ -3,6 +3,7 @@ import { BrowserRouter as Router,Routes,Route } from 'react-router-dom';
 import  './App.css';
 import { Link } from 'react-router-dom';
 import Home from './pages/Home';
+import AdsComponent from './pages/AdsComponent';
 import theseo from './theseo.webp'
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
             {/* Add more navigation links as needed */}
         </nav>
     </header>
+    <AdsComponent dataAdSlot='X7XXXXXX5X' />
     <section className="welcome-section">
         <h2>CEO of world’s largest cryptocurrency exchange pleads guilty to money laundering violations</h2>
         <p className="intro-text">
