@@ -17,7 +17,7 @@ function App() {
             {/* Add more navigation links as needed */}
         </nav>
     </header>
-    <AdsComponent dataAdSlot='X7XXXXXX5X' />
+    <AdsComponent dataAdSlot='2079820680072913' />
     <section className="welcome-section">
         <h2>CEO of world’s largest cryptocurrency exchange pleads guilty to money laundering violations</h2>
         <p className="intro-text">
