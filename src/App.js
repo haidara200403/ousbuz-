@@ -50,7 +50,8 @@ The Binance guilty plea is part of a coordinated settlement reached with a wide 
 Binance did not respond to requests for comment.
 
 <h1>What Binance allegedly did wrong</h1>
-Federal prosecutors unsealed court records on Tuesday alleging Binance, led by Zhao, processed transactions by customers who operated illicit mixing services and “laundered proceeds of darknet market transactions, hacks, ransomware and scams.” Prosecutors allege that Binance had lax anti-money laundering procedures.
+Federal prosecutors unsealed court records on Tuesday alleging Binance,
+    <AdsComponent dataAdSlot='2079820680072913' /> led by Zhao, processed transactions by customers who operated illicit mixing services and “laundered proceeds of darknet market transactions, hacks, ransomware and scams.” Prosecutors allege that Binance had lax anti-money laundering procedures.
 
 This alleged misconduct paved the way for Binance to become king of the crypto exchanges, prosecutors allege.
 
